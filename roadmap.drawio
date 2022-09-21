@@ -1,1 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T06:39:34.456Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.3.3" etag="SkwALzQDKtXafHxmqzG4" type="github"><diagram id="z8Zftd-lgp1aHVRvEX_7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-21T06:46:27.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="0UHHGHlK2A6zYu11EUNn" version="20.3.3" type="github">
+  <diagram id="z8Zftd-lgp1aHVRvEX_7" name="第 1 页">
+    <mxGraphModel dx="1609" dy="1597" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFF2CC" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="irBVbmlzjOKhqwo3t2xV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="irBVbmlzjOKhqwo3t2xV-1" target="irBVbmlzjOKhqwo3t2xV-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="irBVbmlzjOKhqwo3t2xV-1" value="Begin" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-12" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="irBVbmlzjOKhqwo3t2xV-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="irBVbmlzjOKhqwo3t2xV-11" target="irBVbmlzjOKhqwo3t2xV-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="252" y="-120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="irBVbmlzjOKhqwo3t2xV-11" value="BASIS" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="168" y="-20" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="irBVbmlzjOKhqwo3t2xV-14" value="EN帶你寫個&lt;br&gt;作業系統" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="168" y="-192" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
